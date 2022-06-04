@@ -8,4 +8,4 @@ I created this advanced version to dive deeper into the basics of JavaFX 2 and S
 
 I've seen a lot of java slot machines here on github that were like my first version where you just set the icons once with an array of images and the Math.random class, ok fine. But how to really make it look like the wheel is spinning like these from the real cash-in/cash-out online casinos and how to implement it in JavaFX and WITH the Scenebuilder... WITHOUT looking on StackOverflow? ? :)
 
-Now I want to say that it's not perfect but I found a way to make it work and look pretty too. So I did the work and pushed it to Github now... Have fun with it. 🤖
+I want to say that it's not perfect but I found a way to make it work and look pretty too. So I did the work and now its Timme to push it to Github... Have fun with it. 🤖
