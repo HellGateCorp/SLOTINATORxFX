@@ -4,7 +4,7 @@
 # Slotinator
 Next generation of a JavaFX based Gambling Super Heroe Slot machine, now shipped with special Effects and an unique taste of the good old 90's. 🎰🦹🏻‍♂️👾
 
-# notice -> run it with Java 8 (=1.8.0) into your favourite IDE. Ready working Jars are in Progress.
+*notice -> run it with Java 8 (=1.8.0) into your favourite IDE. Ready working Jars are in Progress.
  
 The inspiration behind this Repo was to still improve my Skills and learn more about how Animations and the graphical Effects work with JavaFX 2 and the Scenebuilder 2 from Gluon, so I dive deeper into the Rabbithole and  created an advanced version of a modern day Java based Slot Machine. You can find a lot of java slot machines here on github that are like my first version where you just set the icons once with an array of images and the Math.random class, ok fine. But how to really make it look like the Wheel is spinning, just like those from the you have to pay online casinos ?? And just how to can implement it in JavaFX, that WITH the Scenebuilder... and WITHOUT to have a look on StackOverflow.com ?? 
 
